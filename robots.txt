@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adfvagnini-sys.github.io/apexdeallab/sitemap.xml
